@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @PysioBot
-- 👑 My Master @Pysio2007
+- 👑 My Master [@Pysio2007](https://github.com/Pysio2007)
